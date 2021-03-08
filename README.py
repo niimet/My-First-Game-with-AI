@@ -1,5 +1,5 @@
 # My-First-Game-with-AI
-
+# Burası bir denemedir
 
 import pygame as pg
 from pygame.locals import *
